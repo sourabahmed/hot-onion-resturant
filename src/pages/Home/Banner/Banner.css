@@ -1,0 +1,19 @@
+
+.banner{
+    background-image: url("../../../images/bannerbackground2.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+}
+.input-field{
+    height: 650px;
+}
+.input input{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.input button{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
